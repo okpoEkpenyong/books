@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okpoEkpenyong/herokuDemo.git"
+    "url": "git+https://github.com/okpoEkpenyong/books.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/okpoEkpenyong/herokuDemo/issues"
+    "url": "https://github.com/okpoEkpenyong/books/issues"
   },
-  "homepage": "https://github.com/okpoEkpenyong/herokuDemo#readme",
+  "homepage": "https://github.com/okpoEkpenyong/books#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
