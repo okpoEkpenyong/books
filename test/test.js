@@ -1,5 +1,7 @@
 const chai = require('chai');
 const chaiHttp = require('chai-http');
+
+const server = require('../server');
 const app = require('../app')
 
 
@@ -22,6 +24,6 @@ describe('App basics', () => {
   it('Should exists', () => {
     expect(app).to.be.a('function');
   })
-})  
+
 
 
